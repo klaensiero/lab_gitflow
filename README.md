@@ -1,1 +1,2 @@
-# lab_gitflow
+# A simple calculator
+# Enjoy!
