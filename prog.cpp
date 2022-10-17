@@ -16,4 +16,7 @@ int main() {
         }
         cout << '\n';
     }
+
+    cout << "Hello world!";
+
 }
