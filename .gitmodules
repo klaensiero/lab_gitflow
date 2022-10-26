@@ -1,0 +1,3 @@
+[submodule "digital_culture"]
+	path = digital_culture
+	url = git@github.com:klaensiero/digital_culture.git
